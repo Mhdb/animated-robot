@@ -35,6 +35,6 @@
   },
   "dependencies": {
     "@11ty/eleventy-upgrade-help": "^1.0.1",
-    "alpinejs": "^3.9.1"
+    "alpinejs": "^3.10.2"
   }
 }
